@@ -52,6 +52,7 @@ class AuthForm extends FormAbstract
                 ))
                 ->toArray()
         );
+        
 
         return $this;
     }
